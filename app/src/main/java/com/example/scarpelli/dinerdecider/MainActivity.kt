@@ -7,10 +7,6 @@ import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-    //TODO
-    // - store food in array
-    // - add food to array
-    // - pick random food from array
 
     private val foodList = arrayListOf("Thai", "Chinese", "Pizza", "Nachos", "Nothing")
 
